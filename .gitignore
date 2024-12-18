@@ -1,0 +1,18 @@
+**/ipynb_checkpoints/
+**.DS_Store
+
+# Python environment files
+venv/
+env/
+.env
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook output
+*.nbconvert.ipynb
+
+# Log and temporary files
+*.log
+*.tmp
