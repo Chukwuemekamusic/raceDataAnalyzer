@@ -16,3 +16,6 @@ __pycache__/
 # Log and temporary files
 *.log
 *.tmp
+
+# archive folders
+archive/
